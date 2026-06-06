@@ -110,7 +110,7 @@ This project helps developers practice:
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/AcmeSupport.git
+git clone https://github.com/your-username/ContactForm_BimaRahmadhani.git
 ```
 
 2. Open the project folder
